@@ -129,23 +129,3 @@
     </td>
   </tr> 
 </table>
-
-
- 
-
-
-
-
-
-
-
-## :comet: Contact
-
-
-- :comet: &nbsp;**[Github](https://github.com/Koakoalla)**
-- :airplane: &nbsp;**[Telegram](https://t.me/koallashub)**
-- :popcorn: &nbsp;**[Youtube](https://www.youtube.com/channel/UC4fGxDXu3_VsnmI0Q1rIFpQ)**
-- :camera: &nbsp;**[Instagram](https://www.instagram.com/koakoalla/)**
-
-<br>
-
